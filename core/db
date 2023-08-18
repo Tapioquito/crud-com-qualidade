@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "creationDate": "2023-08-18T16:47:34.099Z",
+      "content": "PRIMEIRA todo",
+      "isDone": false
+    }
+  ]
+}
